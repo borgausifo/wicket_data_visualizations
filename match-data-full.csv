@@ -1,0 +1,570 @@
+ID,Team1,Team2,PlayerOfMatch,Date,CoinFlipWin,CoinDec,Location,Stadium,NeutralVenue,Winner,WinType,WinBy
+1,Zimbabwe,India,CJ Chibhabha,2015-07-19,Zimbabwe,bat,0,Harare Sports Club,0,Zimbabwe,runs,10
+2,Australia,Sri Lanka,SR Clark,2007-09-20,Australia,field,Cape Town,Newlands,1,Australia,wickets,10
+3,Australia,West Indies,KA Pollard,2013-02-13,West Indies,bat,Brisbane,"Brisbane Cricket Ground, Woolloongabba",0,West Indies,runs,27
+4,New Zealand,Pakistan,NL McCullum,2010-12-28,Pakistan,field,Hamilton,Seddon Park,0,New Zealand,runs,39
+5,United Arab Emirates,Scotland,Amjad Javed,2016-02-04,United Arab Emirates,bat,Dubai,ICC Academy,0,United Arab Emirates,runs,9
+6,Sri Lanka,New Zealand,DL Vettori,2009-09-02,New Zealand,bat,Colombo,R Premadasa Stadium,0,New Zealand,runs,3
+7,Australia,England,SR Watson,2011-01-12,Australia,bat,0,Adelaide Oval,0,England,wickets,1
+8,Netherlands,Scotland,JH Davey,2017-01-17,Netherlands,field,Abu Dhabi,Sheikh Zayed Stadium,1,Scotland,runs,7
+9,England,Australia,AD Hales,2013-08-31,Australia,field,Chester-le-Street,Riverside Ground,0,England,runs,27
+10,Bangladesh,Zimbabwe,MN Waller,2016-01-20,Zimbabwe,bat,Khulna,Sheikh Abu Naser Stadium,0,Zimbabwe,runs,31
+11,England,South Africa,AB de Villiers,2014-03-29,England,field,Chittagong,Zahur Ahmed Chowdhury Stadium,1,South Africa,runs,3
+12,Bangladesh,Oman,Tamim Iqbal,2016-03-13,Oman,field,Dharamsala,Himachal Pradesh Cricket Association Stadium,1,Bangladesh,runs,54
+13,England,Pakistan,Abdul Razzaq,2010-02-20,Pakistan,field,0,Dubai International Cricket Stadium,1,Pakistan,wickets,4
+14,India,England,KP Pietersen,2011-10-29,India,bat,Kolkata,Eden Gardens,0,England,wickets,6
+15,United Arab Emirates,Netherlands,Mudassar Bukhari,2016-02-03,United Arab Emirates,field,Dubai,ICC Academy,0,Netherlands,runs,84
+16,Zimbabwe,Pakistan,Umar Akmal,2015-09-29,Pakistan,bat,0,Harare Sports Club,0,Pakistan,runs,15
+17,Ireland,Pakistan,Kamran Akmal,2009-06-15,Pakistan,bat,London,Kennington Oval,1,Pakistan,runs,39
+18,Australia,Pakistan,JP Faulkner,2016-03-25,Australia,bat,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",1,Australia,runs,21
+19,Pakistan,Scotland,Shahid Afridi,2007-09-12,Scotland,field,Durban,Kingsmead,1,Pakistan,runs,51
+20,Afghanistan,Canada,Samiullah Shenwari,2012-03-18,Afghanistan,bat,Dubai,ICC Global Cricket Academy,1,Afghanistan,runs,41
+21,Australia,West Indies,SW Tait,2010-02-21,Australia,bat,Hobart,Bellerive Oval,0,Australia,runs,38
+22,Sri Lanka,West Indies,MN Samuels,2012-10-07,West Indies,bat,Colombo,R Premadasa Stadium,0,West Indies,runs,36
+23,Scotland,Afghanistan,Mohammad Shahzad,2015-07-12,Afghanistan,bat,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",0,Afghanistan,runs,37
+24,Hong Kong,Netherlands,Anshuman Rath,2017-01-18,Hong Kong,bat,0,Dubai International Cricket Stadium,1,Hong Kong,runs,91
+25,India,West Indies,LMP Simmons,2016-03-31,West Indies,field,Mumbai,Wankhede Stadium,0,West Indies,wickets,7
+26,New Zealand,Pakistan,TG Southee,2010-12-26,New Zealand,field,Auckland,Eden Park,0,New Zealand,wickets,5
+27,England,Pakistan,Umar Gul,2012-02-23,England,field,0,Dubai International Cricket Stadium,1,Pakistan,runs,8
+28,England,New Zealand,0,2013-06-27,New Zealand,field,London,Kennington Oval,0,0,0,0
+29,Australia,Pakistan,Misbah-ul-Haq,2007-09-18,Pakistan,field,Johannesburg,New Wanderers Stadium,1,Pakistan,wickets,6
+30,New Zealand,Australia,RT Ponting,2005-02-17,Australia,bat,Auckland,Eden Park,0,Australia,runs,44
+31,Bangladesh,United Arab Emirates,Mahmudullah,2016-02-26,United Arab Emirates,field,Mirpur,Shere Bangla National Stadium,0,Bangladesh,runs,51
+32,Hong Kong,United Arab Emirates,0,2016-02-21,Hong Kong,bat,Fatullah,Khan Shaheb Osman Ali Stadium,1,United Arab Emirates,wickets,6
+33,New Zealand,Pakistan,Imran Nazir,2009-11-12,New Zealand,field,0,Dubai International Cricket Stadium,1,Pakistan,runs,49
+34,England,India,JW Dernbach,2011-08-31,India,bat,Manchester,Old Trafford,0,England,wickets,6
+35,Zimbabwe,Pakistan,Imad Wasim,2015-09-27,Pakistan,bat,0,Harare Sports Club,0,Pakistan,runs,13
+36,West Indies,India,CH Gayle,2010-05-09,India,field,Barbados,"Kensington Oval, Bridgetown",0,West Indies,runs,14
+37,West Indies,England,MN Samuels,2014-03-09,West Indies,bat,Barbados,"Kensington Oval, Bridgetown",0,West Indies,runs,27
+38,Canada,Scotland,RD Berrington,2012-03-23,Canada,bat,0,Dubai International Cricket Stadium,1,Scotland,wickets,4
+39,South Africa,Pakistan,Mohammad Hafeez,2013-11-22,Pakistan,bat,Cape Town,Newlands,0,Pakistan,runs,6
+40,England,West Indies,MN Samuels,2016-04-03,West Indies,field,Kolkata,Eden Gardens,1,West Indies,wickets,4
+41,Hong Kong,Oman,0,2016-02-19,Oman,bat,Fatullah,Khan Shaheb Osman Ali Stadium,1,Oman,runs,5
+42,United Arab Emirates,Afghanistan,Karim Janat,2016-12-14,Afghanistan,bat,Dubai,ICC Academy,0,Afghanistan,runs,11
+43,West Indies,Australia,XM Marshall,2008-06-20,West Indies,field,Barbados,"Kensington Oval, Bridgetown",0,West Indies,wickets,7
+44,New Zealand,West Indies,CH Gayle,2008-12-26,New Zealand,bat,Auckland,Eden Park,0,0,0,0
+45,Australia,Pakistan,Mohammad Amir,2010-07-06,Pakistan,bat,Birmingham,Edgbaston,1,Pakistan,runs,11
+46,England,India,Harbhajan Singh,2012-09-23,England,field,Colombo,R Premadasa Stadium,1,India,runs,90
+47,South Africa,Australia,MA Starc,2014-03-14,Australia,field,Centurion,SuperSport Park,0,Australia,wickets,6
+48,Bangladesh,Pakistan,Shahid Afridi,2016-03-16,Pakistan,bat,Kolkata,Eden Gardens,1,Pakistan,runs,55
+49,Australia,Sri Lanka,DAS Gunaratne,2017-02-17,Sri Lanka,field,0,Melbourne Cricket Ground,0,Sri Lanka,wickets,5
+50,Australia,Sri Lanka,S Randiv,2010-10-31,Australia,bat,Perth,Western Australia Cricket Association Ground,0,Sri Lanka,wickets,7
+51,Australia,Pakistan,GJ Maxwell,2014-10-05,Pakistan,bat,0,Dubai International Cricket Stadium,1,Australia,wickets,6
+52,Afghanistan,Oman,Mohammad Shahzad,2017-01-20,Afghanistan,field,0,Dubai International Cricket Stadium,1,Afghanistan,wickets,8
+53,India,Sri Lanka,AD Mathews,2010-05-11,India,bat,St Lucia,"Beausejour Stadium, Gros Islet",1,Sri Lanka,wickets,5
+54,India,Sri Lanka,KC Sangakkara,2009-12-09,India,field,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",0,Sri Lanka,runs,29
+55,United Arab Emirates,Afghanistan,Rashid Khan,2016-12-18,Afghanistan,bat,Dubai,ICC Academy,0,Afghanistan,runs,44
+56,Sri Lanka,New Zealand,0,2012-10-30,Sri Lanka,field,0,Pallekele International Cricket Stadium,0,0,0,0
+57,Bangladesh,West Indies,Mushfiqur Rahim,2011-10-11,Bangladesh,field,Mirpur,Shere Bangla National Stadium,0,Bangladesh,wickets,3
+58,Ireland,Papua New Guinea,0,2016-02-07,Papua New Guinea,field,Townsville,Tony Ireland Stadium,1,Ireland,runs,7
+59,Afghanistan,Oman,Najibullah Zadran,2015-07-25,Afghanistan,field,Dublin,Clontarf Cricket Club Ground,1,Afghanistan,wickets,5
+60,West Indies,New Zealand,ADS Fletcher,2014-07-06,New Zealand,field,Dominica,"Windsor Park, Roseau",0,West Indies,runs,39
+61,New Zealand,Bangladesh,CJ Anderson,2017-01-08,Bangladesh,field,Mount Maunganui,Bay Oval,0,New Zealand,runs,27
+62,Ireland,West Indies,0,2012-09-24,West Indies,field,Colombo,R Premadasa Stadium,1,0,0,0
+63,New Zealand,Pakistan,AP Devcich,2014-12-05,Pakistan,field,0,Dubai International Cricket Stadium,1,New Zealand,runs,17
+64,Sri Lanka,South Africa,DA Miller,2013-08-04,South Africa,bat,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,South Africa,runs,22
+65,England,India,EJG Morgan,2014-09-07,England,bat,Birmingham,Edgbaston,0,England,runs,3
+66,United Arab Emirates,Papua New Guinea,0,2017-04-12,United Arab Emirates,field,Abu Dhabi,Sheikh Zayed Stadium,0,United Arab Emirates,wickets,5
+67,West Indies,England,DJG Sammy,2010-05-03,West Indies,field,Guyana,Providence Stadium,0,West Indies,wickets,8
+68,New Zealand,Australia,BB McCullum,2010-02-28,New Zealand,bat,Christchurch,AMI Stadium,0,0,0,0
+69,Australia,West Indies,DJG Sammy,2014-03-28,Australia,bat,Mirpur,Shere Bangla National Stadium,1,West Indies,wickets,6
+70,New Zealand,Sri Lanka,HMRKB Herath,2014-03-31,New Zealand,field,Chittagong,Zahur Ahmed Chowdhury Stadium,1,Sri Lanka,runs,59
+71,Ireland,Oman,Amir Ali,2016-03-09,Ireland,bat,Dharamsala,Himachal Pradesh Cricket Association Stadium,1,Oman,wickets,2
+72,Bangladesh,Zimbabwe,MN Waller,2015-11-13,Bangladesh,field,Mirpur,Shere Bangla National Stadium,0,Bangladesh,wickets,4
+73,Canada,Kenya,SO Tikolo,2013-11-26,Kenya,bat,0,Sharjah Cricket Stadium,1,Kenya,runs,21
+74,Oman,United Arab Emirates,Muhammad Usman,2016-02-22,Oman,field,Mirpur,Shere Bangla National Stadium,1,United Arab Emirates,runs,71
+75,England,South Africa,DW Steyn,2012-09-08,South Africa,field,Chester-le-Street,Riverside Ground,0,South Africa,wickets,7
+76,New Zealand,West Indies,JD Ryder,2008-12-28,New Zealand,bat,Hamilton,Seddon Park,0,New Zealand,runs,36
+77,Australia,England,JR Hazlewood,2014-01-31,England,bat,0,Melbourne Cricket Ground,0,Australia,wickets,8
+78,Bangladesh,Pakistan,Salman Butt,2010-05-01,Pakistan,bat,St Lucia,"Beausejour Stadium, Gros Islet",1,Pakistan,runs,21
+79,West Indies,India,S Badrinath,2011-06-04,West Indies,field,Trinidad,"Queen's Park Oval, Port of Spain",0,India,runs,16
+80,New Zealand,West Indies,CH Gayle,2012-06-30,New Zealand,field,Lauderhill,Central Broward Regional Park Stadium Turf Ground,1,West Indies,runs,56
+81,Hong Kong,Scotland,CS MacLeod,2017-01-14,Scotland,bat,Abu Dhabi,Sheikh Zayed Stadium,1,Scotland,runs,24
+82,South Africa,West Indies,CH Gayle,2015-01-11,West Indies,field,Johannesburg,New Wanderers Stadium,0,West Indies,wickets,4
+83,Hong Kong,Oman,0,2015-11-21,Oman,field,Abu Dhabi,Sheikh Zayed Stadium,1,Oman,wickets,6
+84,South Africa,Australia,HM Amla,2016-03-09,South Africa,bat,Cape Town,Newlands,0,Australia,wickets,6
+85,Zimbabwe,India,YK Pathan,2010-06-12,India,field,0,Harare Sports Club,0,India,wickets,6
+86,England,West Indies,AD Hales,2012-06-24,West Indies,bat,Nottingham,Trent Bridge,0,England,wickets,7
+87,England,Pakistan,TT Bresnan,2010-09-07,Pakistan,bat,Cardiff,Sophia Gardens,0,England,wickets,6
+88,Ireland,Scotland,GC Wilson,2017-01-20,Scotland,field,0,Dubai International Cricket Stadium,1,Ireland,runs,98
+89,Bangladesh,South Africa,F du Plessis,2015-07-05,South Africa,bat,Mirpur,Shere Bangla National Stadium,0,South Africa,runs,52
+90,Pakistan,South Africa,J Theron,2010-10-27,Pakistan,bat,Abu Dhabi,Sheikh Zayed Stadium,1,South Africa,wickets,6
+91,Zimbabwe,India,BB Sran,2016-06-20,Zimbabwe,bat,0,Harare Sports Club,0,India,wickets,10
+92,Ireland,Bangladesh,Elias Sunny,2012-07-18,Ireland,field,Belfast,"Civil Service Cricket Club, Stormont",0,Bangladesh,runs,71
+93,India,West Indies,DJ Bravo,2009-06-12,India,bat,London,Lord's,1,West Indies,wickets,7
+94,Bangladesh,New Zealand,BB McCullum,2012-09-21,Bangladesh,field,0,Pallekele International Cricket Stadium,1,New Zealand,runs,59
+95,Australia,Pakistan,MEK Hussey,2010-05-14,Australia,field,St Lucia,"Beausejour Stadium, Gros Islet",1,Australia,wickets,3
+96,Sri Lanka,Pakistan,Shahid Afridi,2012-06-03,Pakistan,bat,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,Pakistan,runs,23
+97,Ireland,Netherlands,KJ O'Brien,2012-03-23,Ireland,field,0,Dubai International Cricket Stadium,1,Ireland,wickets,7
+98,New Zealand,West Indies,SP Narine,2012-07-01,West Indies,bat,Lauderhill,Central Broward Regional Park Stadium Turf Ground,1,West Indies,runs,61
+99,South Africa,Sri Lanka,AM Phangiso,2016-03-28,South Africa,field,Delhi,Feroz Shah Kotla,1,South Africa,wickets,8
+100,England,Australia,KP Pietersen,2005-06-13,England,bat,Southampton,The Rose Bowl,0,England,runs,100
+101,Australia,South Africa,MEK Hussey,2009-01-13,South Africa,bat,Brisbane,"Brisbane Cricket Ground, Woolloongabba",0,Australia,wickets,6
+102,Sri Lanka,Australia,GJ Maxwell,2016-09-09,Sri Lanka,bat,Colombo,R Premadasa Stadium,0,Australia,wickets,4
+103,Nepal,Papua New Guinea,A Vala,2015-07-17,Papua New Guinea,field,Dublin,"The Village, Malahide",1,Papua New Guinea,wickets,8
+104,Zimbabwe,New Zealand,GH Worker,2015-08-09,Zimbabwe,field,0,Harare Sports Club,0,New Zealand,runs,80
+105,United Arab Emirates,Papua New Guinea,0,2017-04-14,Papua New Guinea,bat,Abu Dhabi,Sheikh Zayed Stadium,0,United Arab Emirates,wickets,5
+106,West Indies,Pakistan,Shadab Khan,2017-03-26,Pakistan,field,Barbados,"Kensington Oval, Bridgetown",0,Pakistan,wickets,6
+107,India,England,YS Chahal,2017-02-01,England,field,Bangalore,M Chinnaswamy Stadium,0,India,runs,75
+108,India,England,Yuvraj Singh,2012-12-20,India,field,Pune,Subrata Roy Sahara Stadium,0,India,wickets,5
+109,South Africa,West Indies,JE Taylor,2007-12-16,West Indies,field,Port Elizabeth,St George's Park,0,West Indies,wickets,5
+110,Netherlands,Nepal,0,2015-07-01,Nepal,field,Amstelveen,VRA Ground,0,Netherlands,runs,103
+111,New Zealand,England,AD Mascarenhas,2008-02-05,New Zealand,field,Auckland,Eden Park,0,England,runs,32
+112,India,Sri Lanka,S Dhawan,2016-02-12,Sri Lanka,field,Ranchi,JSCA International Stadium Complex,0,India,runs,69
+113,South Africa,Australia,SR Watson,2011-10-13,South Africa,bat,Cape Town,Newlands,0,Australia,wickets,5
+114,Sri Lanka,West Indies,TM Dilshan,2009-06-19,West Indies,field,London,Kennington Oval,1,Sri Lanka,runs,57
+115,India,Pakistan,Yuvraj Singh,2012-12-28,Pakistan,field,Ahmedabad,"Sardar Patel Stadium, Motera",0,India,runs,11
+116,Netherlands,Sri Lanka,AD Mathews,2014-03-24,Sri Lanka,field,Chittagong,Zahur Ahmed Chowdhury Stadium,1,Sri Lanka,wickets,9
+117,Zimbabwe,Pakistan,Mohammad Hafeez,2011-09-18,Pakistan,bat,0,Harare Sports Club,0,Pakistan,runs,5
+118,England,South Africa,KP Pietersen,2010-05-08,England,bat,Barbados,"Kensington Oval, Bridgetown",1,England,runs,39
+119,India,England,MM Ali,2017-01-26,England,field,Kanpur,Green Park,0,England,wickets,7
+120,South Africa,West Indies,MN van Wyk,2015-01-14,West Indies,field,Durban,Kingsmead,0,South Africa,runs,69
+121,India,South Africa,Yuvraj Singh,2012-10-02,South Africa,field,Colombo,R Premadasa Stadium,1,India,runs,1
+122,Afghanistan,Scotland,Dawlat Zadran,2013-11-16,Afghanistan,bat,0,Sharjah Cricket Stadium,1,Afghanistan,runs,17
+123,New Zealand,Zimbabwe,JEC Franklin,2012-02-14,Zimbabwe,bat,Hamilton,Seddon Park,0,New Zealand,wickets,5
+124,Afghanistan,South Africa,CH Morris,2016-03-20,South Africa,bat,Mumbai,Wankhede Stadium,1,South Africa,runs,37
+125,England,Zimbabwe,KP Pietersen,2007-09-13,England,bat,Cape Town,Newlands,1,England,runs,50
+126,South Africa,Sri Lanka,L Ngidi,2017-01-20,Sri Lanka,field,Centurion,SuperSport Park,0,South Africa,runs,19
+127,India,Bangladesh,R Ashwin,2016-03-23,Bangladesh,field,Bangalore,M Chinnaswamy Stadium,0,India,runs,1
+128,South Africa,New Zealand,RK Kleinveldt,2012-12-21,New Zealand,bat,Durban,Kingsmead,0,South Africa,wickets,8
+129,Afghanistan,Kenya,Hamid Hassan,2013-09-30,Afghanistan,bat,0,Sharjah Cricket Stadium,1,Afghanistan,runs,106
+130,Zimbabwe,India,SK Raina,2010-06-13,India,field,0,Harare Sports Club,0,India,wickets,7
+131,New Zealand,Scotland,IG Butler,2009-06-06,New Zealand,field,London,Kennington Oval,1,New Zealand,wickets,7
+132,England,New Zealand,JE Root,2015-06-23,England,bat,Manchester,Old Trafford,0,England,runs,56
+133,India,Sri Lanka,R Ashwin,2016-02-14,India,field,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,India,wickets,9
+134,West Indies,Zimbabwe,S Badree,2013-03-03,West Indies,bat,Antigua,"Sir Vivian Richards Stadium, North Sound",0,West Indies,runs,41
+135,Australia,Bangladesh,MEK Hussey,2010-05-05,Australia,bat,Barbados,"Kensington Oval, Bridgetown",1,Australia,runs,27
+136,Australia,West Indies,CH Gayle,2009-06-06,Australia,bat,London,Kennington Oval,1,West Indies,wickets,7
+137,Australia,Pakistan,Mohammad Hafeez,2012-09-05,Pakistan,field,0,Dubai International Cricket Stadium,1,Pakistan,wickets,7
+138,West Indies,Sri Lanka,DPMD Jayawardene,2010-05-07,Sri Lanka,bat,Barbados,"Kensington Oval, Bridgetown",0,Sri Lanka,runs,57
+139,Australia,Sri Lanka,DAS Gunaratne,2017-02-19,Sri Lanka,field,Victoria,"Simonds Stadium, South Geelong",0,Sri Lanka,wickets,2
+140,South Africa,Australia,GC Smith,2006-02-24,South Africa,bat,Johannesburg,New Wanderers Stadium,0,South Africa,runs,2
+141,Canada,Netherlands,Mudassar Bukhari,2012-03-13,Netherlands,bat,0,Dubai International Cricket Stadium,1,Netherlands,runs,42
+142,Pakistan,Zimbabwe,Mukhtar Ahmed,2015-05-22,Zimbabwe,bat,Lahore,Gaddafi Stadium,0,Pakistan,wickets,5
+143,West Indies,Bangladesh,DJG Sammy,2009-08-02,Bangladesh,bat,St Kitts,"Warner Park, Basseterre",0,West Indies,wickets,5
+144,Netherlands,New Zealand,BB McCullum,2014-03-29,New Zealand,field,Chittagong,Zahur Ahmed Chowdhury Stadium,1,New Zealand,wickets,6
+145,Canada,Kenya,AA Obanda,2010-02-10,Kenya,field,0,Dubai International Cricket Stadium,1,Kenya,wickets,9
+146,New Zealand,India,BB McCullum,2009-02-25,New Zealand,field,Christchurch,AMI Stadium,0,New Zealand,wickets,7
+147,Sri Lanka,West Indies,SMSM Senanayake,2015-11-09,West Indies,field,0,Pallekele International Cricket Stadium,0,Sri Lanka,runs,30
+148,England,New Zealand,JJ Roy,2016-03-30,England,field,Delhi,Feroz Shah Kotla,1,England,wickets,7
+149,South Africa,West Indies,WD Parnell,2009-06-13,West Indies,field,London,Kennington Oval,1,South Africa,runs,20
+150,Bangladesh,India,R Ashwin,2014-03-28,India,field,Mirpur,Shere Bangla National Stadium,0,India,wickets,8
+151,England,South Africa,JC Buttler,2012-09-12,South Africa,field,Birmingham,Edgbaston,0,England,runs,28
+152,Kenya,Netherlands,0,2013-04-20,Kenya,field,Windhoek,Wanderers Cricket Ground,1,Kenya,wickets,7
+153,New Zealand,Pakistan,Sarfraz Ahmed,2014-12-04,Pakistan,field,0,Dubai International Cricket Stadium,1,Pakistan,wickets,7
+154,Pakistan,Sri Lanka,Shahid Afridi,2013-12-11,Pakistan,field,0,Dubai International Cricket Stadium,1,Pakistan,wickets,3
+155,Afghanistan,Ireland,Najeeb Tarakai,2017-03-10,Afghanistan,bat,Greater Noida,Greater Noida Sports Complex Ground,1,Afghanistan,runs,17
+156,Australia,India,SR Watson,2012-09-28,India,bat,Colombo,R Premadasa Stadium,1,Australia,wickets,9
+157,Australia,Zimbabwe,BRM Taylor,2007-09-12,Australia,bat,Cape Town,Newlands,1,Zimbabwe,wickets,5
+158,England,New Zealand,IR Bell,2008-06-13,England,field,Manchester,Old Trafford,0,England,wickets,9
+159,New Zealand,South Africa,JP Duminy,2014-03-24,New Zealand,field,Chittagong,Zahur Ahmed Chowdhury Stadium,1,South Africa,runs,2
+160,Zimbabwe,Pakistan,Mohammad Hafeez,2011-09-16,Zimbabwe,field,0,Harare Sports Club,0,Pakistan,runs,85
+161,West Indies,Australia,DR Smith,2012-03-30,West Indies,bat,Barbados,"Kensington Oval, Bridgetown",0,West Indies,runs,14
+162,Netherlands,Nepal,0,2015-07-02,Netherlands,bat,Rotterdam,Hazelaarweg,0,Netherlands,runs,18
+163,South Africa,England,Imran Tahir,2016-02-19,South Africa,field,Cape Town,Newlands,0,South Africa,wickets,3
+164,New Zealand,South Africa,MJ Guptill,2012-02-17,New Zealand,field,Wellington,Westpac Stadium,0,New Zealand,wickets,6
+165,South Africa,Bangladesh,Abdur Razzak,2008-11-05,Bangladesh,field,Johannesburg,New Wanderers Stadium,0,South Africa,runs,12
+166,Kenya,Netherlands,0,2013-04-19,Netherlands,bat,Windhoek,Wanderers Cricket Ground,1,Kenya,wickets,5
+167,Kenya,Bangladesh,Nazimuddin,2007-09-01,Bangladesh,field,Nairobi,Gymkhana Club Ground,0,Bangladesh,wickets,5
+168,Hong Kong,Scotland,KJ Coetzer,2016-01-31,Hong Kong,field,Hong Kong,"Mission Road Ground, Mong Kok",0,Scotland,runs,37
+169,Hong Kong,Scotland,RML Taylor,2015-07-25,Scotland,field,Dublin,"The Village, Malahide",1,Scotland,wickets,5
+170,Sri Lanka,South Africa,AB de Villiers,2012-09-22,Sri Lanka,field,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,South Africa,runs,32
+171,West Indies,England,CJ Jordan,2014-03-13,England,bat,Barbados,"Kensington Oval, Bridgetown",0,England,runs,5
+172,South Africa,Australia,BJ Hodge,2014-03-12,Australia,field,Durban,Kingsmead,0,Australia,wickets,5
+173,Australia,India,V Kohli,2016-01-29,Australia,field,0,Melbourne Cricket Ground,0,India,runs,27
+174,New Zealand,West Indies,DR Smith,2006-02-16,New Zealand,field,Auckland,Eden Park,0,0,0,0
+175,Sri Lanka,Pakistan,Sohail Tanvir,2015-07-30,Pakistan,bat,Colombo,R Premadasa Stadium,0,Pakistan,runs,29
+176,Sri Lanka,England,SL Malinga,2012-10-01,England,field,0,Pallekele International Cricket Stadium,0,Sri Lanka,runs,19
+177,Afghanistan,Oman,0,2015-11-30,Oman,field,Abu Dhabi,Sheikh Zayed Stadium,1,Afghanistan,runs,12
+178,England,West Indies,OA Shah,2007-06-29,West Indies,bat,London,Kennington Oval,0,England,wickets,5
+179,Bangladesh,Zimbabwe,Sabbir Rahman,2016-01-17,Bangladesh,bat,Khulna,Sheikh Abu Naser Stadium,0,Bangladesh,runs,42
+180,West Indies,Australia,SR Watson,2012-03-27,West Indies,bat,St Lucia,"Beausejour Stadium, Gros Islet",0,Australia,wickets,8
+181,Zimbabwe,India,AR Patel,2015-07-17,India,bat,0,Harare Sports Club,0,India,runs,54
+182,Ireland,United Arab Emirates,EC Joyce,2014-03-19,Ireland,field,0,Sylhet Stadium,1,Ireland,runs,21
+183,Hong Kong,Oman,Bilal Khan,2017-01-16,Oman,field,Abu Dhabi,Sheikh Zayed Stadium,1,Oman,wickets,7
+184,Afghanistan,India,V Kohli,2012-09-19,Afghanistan,field,Colombo,R Premadasa Stadium,1,India,runs,23
+185,Pakistan,West Indies,Imad Wasim,2016-09-27,Pakistan,field,Abu Dhabi,Sheikh Zayed Stadium,1,Pakistan,wickets,8
+186,Sri Lanka,South Africa,TM Dilshan,2013-08-06,South Africa,bat,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,Sri Lanka,wickets,6
+187,New Zealand,Sri Lanka,BAW Mendis,2009-06-16,Sri Lanka,bat,Nottingham,Trent Bridge,1,Sri Lanka,runs,48
+188,Australia,India,MS Wade,2012-02-01,India,field,Sydney,Stadium Australia,0,Australia,runs,31
+189,Ireland,Scotland,DT Johnston,2010-02-11,Ireland,bat,0,Dubai International Cricket Stadium,1,Ireland,runs,37
+190,Bangladesh,Pakistan,Imran Nazir,2012-09-25,Bangladesh,bat,0,Pallekele International Cricket Stadium,1,Pakistan,wickets,8
+191,Australia,Bangladesh,B Lee,2007-09-16,Australia,field,Cape Town,Newlands,1,Australia,wickets,9
+192,Afghanistan,Nepal,JK Mukhiya,2014-03-20,Afghanistan,field,Chittagong,Zahur Ahmed Chowdhury Stadium,1,Nepal,runs,9
+193,Bangladesh,Afghanistan,Shakib Al Hasan,2014-03-16,Bangladesh,field,Mirpur,Shere Bangla National Stadium,0,Bangladesh,wickets,9
+194,Kenya,Ireland,PR Stirling,2012-02-23,Kenya,bat,0,Mombasa Sports Club Ground,0,Ireland,wickets,8
+195,Ireland,Netherlands,Mudassar Bukhari,2015-07-25,Netherlands,field,Dublin,"The Village, Malahide",0,Netherlands,wickets,5
+196,Canada,Kenya,Junaid Siddiqui,2013-03-15,Kenya,bat,Dubai,ICC Global Cricket Academy,1,Canada,wickets,5
+197,South Africa,Pakistan,Mohammad Hafeez,2013-03-03,Pakistan,bat,Centurion,SuperSport Park,0,Pakistan,runs,95
+198,Afghanistan,Scotland,Mohammad Shahzad,2013-03-03,Afghanistan,bat,0,Sharjah Cricket Stadium,1,Afghanistan,runs,27
+199,India,Pakistan,V Kohli,2016-03-19,India,field,Kolkata,Eden Gardens,0,India,wickets,6
+200,South Africa,Sri Lanka,N Dickwella,2017-01-25,South Africa,bat,Cape Town,Newlands,0,Sri Lanka,wickets,5
+201,South Africa,India,RG Sharma,2011-01-09,India,bat,Durban,Moses Mabhida Stadium,0,India,runs,21
+202,Pakistan,South Africa,F du Plessis,2013-11-15,South Africa,bat,0,Dubai International Cricket Stadium,1,South Africa,runs,6
+203,England,Australia,AJ Finch,2013-08-29,England,field,Southampton,The Rose Bowl,0,Australia,runs,39
+204,New Zealand,Pakistan,CJ Anderson,2016-01-22,Pakistan,field,Wellington,Westpac Stadium,0,New Zealand,runs,95
+205,Afghanistan,Ireland,Mohammad Nabi,2017-01-20,Ireland,bat,0,Dubai International Cricket Stadium,1,Afghanistan,wickets,10
+206,Bangladesh,West Indies,Mohammad Ashraful,2007-09-13,Bangladesh,field,Johannesburg,New Wanderers Stadium,1,Bangladesh,wickets,6
+207,Bangladesh,Zimbabwe,N Madziva,2015-11-15,Bangladesh,bat,Mirpur,Shere Bangla National Stadium,0,Zimbabwe,wickets,3
+208,Afghanistan,United Arab Emirates,0,2016-02-19,United Arab Emirates,bat,Fatullah,Khan Shaheb Osman Ali Stadium,1,United Arab Emirates,runs,16
+209,England,West Indies,J Charles,2012-09-27,West Indies,bat,0,Pallekele International Cricket Stadium,1,West Indies,runs,15
+210,Bangladesh,West Indies,DR Smith,2014-03-25,Bangladesh,field,Mirpur,Shere Bangla National Stadium,0,West Indies,runs,73
+211,England,New Zealand,CJ Anderson,2014-03-22,New Zealand,field,Chittagong,Zahur Ahmed Chowdhury Stadium,1,New Zealand,runs,9
+212,Ireland,Scotland,0,2015-06-20,Scotland,field,Londonderry,"Bready Cricket Club, Magheramason",0,Scotland,wickets,6
+213,West Indies,Pakistan,E Lewis,2017-04-01,Pakistan,bat,Trinidad,"Queen's Park Oval, Port of Spain",0,West Indies,wickets,7
+214,West Indies,Ireland,DJG Sammy,2014-02-21,Ireland,field,Jamaica,"Sabina Park, Kingston",0,West Indies,runs,11
+215,England,Pakistan,Shahid Afridi,2006-08-28,England,bat,Bristol,County Ground,0,Pakistan,wickets,5
+216,England,West Indies,RS Bopara,2011-09-23,England,field,London,Kennington Oval,0,England,wickets,10
+217,England,Pakistan,JM Bairstow,2012-02-25,England,bat,0,Dubai International Cricket Stadium,1,England,runs,38
+218,Nepal,Ireland,KJ O'Brien,2015-07-13,Ireland,field,Belfast,"Civil Service Cricket Club, Stormont",0,Ireland,wickets,8
+219,Scotland,South Africa,AB de Villiers,2009-06-07,Scotland,field,London,Kennington Oval,1,South Africa,runs,130
+220,England,Pakistan,LJ Wright,2009-06-07,Pakistan,field,London,Kennington Oval,0,England,runs,48
+221,Bangladesh,Ireland,NJ O'Brien,2009-06-08,Ireland,field,Nottingham,Trent Bridge,1,Ireland,wickets,6
+222,India,West Indies,E Lewis,2016-08-27,India,field,Lauderhill,Central Broward Regional Park Stadium Turf Ground,1,West Indies,runs,1
+223,Ireland,Netherlands,AR Cusack,2010-02-13,Ireland,bat,0,Dubai International Cricket Stadium,1,Ireland,runs,65
+224,England,Australia,0,2009-08-30,England,field,Manchester,Old Trafford,0,0,0,0
+225,United Arab Emirates,Afghanistan,Najibullah Zadran,2016-12-16,United Arab Emirates,bat,0,Dubai International Cricket Stadium,0,Afghanistan,wickets,5
+226,Afghanistan,United Arab Emirates,Mohammad Shahzad,2015-07-10,United Arab Emirates,bat,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",1,Afghanistan,wickets,8
+227,England,Ireland,0,2010-05-04,Ireland,field,Guyana,Providence Stadium,1,0,0,0
+228,Afghanistan,Kenya,Samiullah Shenwari,2013-11-24,Afghanistan,bat,0,Sharjah Cricket Stadium,1,Afghanistan,runs,34
+229,England,New Zealand,CD McMillan,2007-09-18,England,field,Durban,Kingsmead,1,New Zealand,runs,5
+230,Australia,Sri Lanka,CL White,2010-05-09,Australia,bat,Barbados,"Kensington Oval, Bridgetown",1,Australia,runs,81
+231,Afghanistan,Netherlands,BN Cooper,2013-11-15,Afghanistan,bat,Sharjah,Sharjah Cricket Stadium,1,Netherlands,wickets,7
+232,Hong Kong,Scotland,MW Machan,2016-03-12,Hong Kong,bat,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",1,Scotland,wickets,8
+233,Bangladesh,Nepal,Al-Amin Hossain,2014-03-18,Bangladesh,field,Chittagong,Zahur Ahmed Chowdhury Stadium,0,Bangladesh,wickets,8
+234,Kenya,Ireland,GH Dockrell,2012-02-22,Ireland,field,0,Mombasa Sports Club Ground,0,Ireland,wickets,6
+235,India,Australia,G Gambhir,2007-10-20,Australia,bat,Mumbai,Brabourne Stadium,0,India,wickets,7
+236,Zimbabwe,India,E Chigumbura,2016-06-18,India,field,0,Harare Sports Club,0,Zimbabwe,runs,2
+237,New Zealand,South Africa,Imran Tahir,2017-02-17,New Zealand,field,Auckland,Eden Park,0,South Africa,runs,78
+238,Australia,Pakistan,SW Tait,2010-02-05,Australia,bat,0,Melbourne Cricket Ground,0,Australia,runs,2
+239,Bermuda,Scotland,JD Nel,2008-08-03,Scotland,field,Belfast,"Civil Service Cricket Club, Stormont",1,Scotland,wickets,8
+240,Australia,India,RA Jadeja,2012-02-03,Australia,bat,0,Melbourne Cricket Ground,0,India,wickets,8
+241,Pakistan,Sri Lanka,Umar Akmal,2016-03-04,Pakistan,field,Mirpur,Shere Bangla National Stadium,1,Pakistan,wickets,6
+242,New Zealand,West Indies,SP Narine,2012-10-01,New Zealand,field,0,Pallekele International Cricket Stadium,1,0,0,0
+243,Australia,South Africa,DR Martyn,2006-01-09,Australia,bat,Brisbane,"Brisbane Cricket Ground, Woolloongabba",0,Australia,runs,95
+244,Afghanistan,Hong Kong,Nawroz Mangal,2015-07-21,Afghanistan,bat,Dublin,"The Village, Malahide",1,Hong Kong,wickets,5
+245,India,England,JJ Bumrah,2017-01-29,England,field,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",0,India,runs,5
+246,Australia,Pakistan,Saeed Ajmal,2012-09-07,Pakistan,bat,0,Dubai International Cricket Stadium,1,0,0,0
+247,England,Sri Lanka,NLTC Perera,2014-05-20,England,field,London,Kennington Oval,0,Sri Lanka,runs,9
+248,England,Sri Lanka,DPMD Jayawardene,2011-06-25,Sri Lanka,field,Bristol,County Ground,0,Sri Lanka,wickets,9
+249,South Africa,New Zealand,MJ Guptill,2012-12-23,New Zealand,field,East London,Buffalo Park,0,New Zealand,wickets,8
+250,Australia,New Zealand,NW Bracken,2009-02-15,Australia,bat,0,Sydney Cricket Ground,0,Australia,runs,1
+251,Afghanistan,Scotland,Mohammad Shahzad,2016-03-08,Afghanistan,bat,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",1,Afghanistan,runs,14
+252,Sri Lanka,India,IK Pathan,2012-08-07,Sri Lanka,field,0,Pallekele International Cricket Stadium,0,India,runs,39
+253,Australia,South Africa,CJ Boyce,2014-11-07,South Africa,bat,0,Melbourne Cricket Ground,0,Australia,wickets,7
+254,India,United Arab Emirates,RG Sharma,2016-03-03,United Arab Emirates,bat,Mirpur,Shere Bangla National Stadium,1,India,wickets,9
+255,Oman,Scotland,MH Cross,2017-01-19,Oman,bat,0,Dubai International Cricket Stadium,1,Scotland,wickets,7
+256,Hong Kong,Nepal,SP Gauchan,2014-03-16,Hong Kong,field,Chittagong,Zahur Ahmed Chowdhury Stadium,1,Nepal,runs,80
+257,Ireland,Kenya,AC Botha,2008-08-04,Ireland,field,Belfast,"Civil Service Cricket Club, Stormont",0,Ireland,wickets,4
+258,Netherlands,South Africa,Imran Tahir,2014-03-27,Netherlands,field,Chittagong,Zahur Ahmed Chowdhury Stadium,1,South Africa,runs,6
+259,South Africa,India,KD Karthik,2006-12-01,South Africa,bat,Johannesburg,New Wanderers Stadium,0,India,wickets,6
+260,Sri Lanka,West Indies,DJ Bravo,2015-11-11,West Indies,bat,Colombo,R Premadasa Stadium,0,West Indies,runs,23
+261,New Zealand,Australia,MG Johnson,2010-02-26,New Zealand,bat,Wellington,Westpac Stadium,0,Australia,wickets,6
+262,Bangladesh,South Africa,E Leie,2015-07-07,South Africa,bat,Mirpur,Shere Bangla National Stadium,0,South Africa,runs,31
+263,Australia,South Africa,CL White,2014-11-09,Australia,field,Sydney,Stadium Australia,0,Australia,wickets,2
+264,Zimbabwe,India,KM Jadhav,2016-06-22,Zimbabwe,field,0,Harare Sports Club,0,India,runs,3
+265,Bangladesh,Pakistan,Ahmed Shehzad,2014-03-30,Pakistan,bat,Mirpur,Shere Bangla National Stadium,0,Pakistan,runs,50
+266,England,Pakistan,Wahab Riaz,2016-09-07,England,bat,Manchester,Old Trafford,0,Pakistan,wickets,9
+267,Sri Lanka,Australia,BAW Mendis,2011-08-08,Sri Lanka,bat,0,Pallekele International Cricket Stadium,0,Sri Lanka,runs,8
+268,Pakistan,Sri Lanka,ST Jayasuriya,2008-10-13,Sri Lanka,field,King City,Maple Leaf North-West Ground,1,Sri Lanka,wickets,5
+269,Bangladesh,Sri Lanka,MDKJ Perera,2014-02-12,Bangladesh,field,Chittagong,Zahur Ahmed Chowdhury Stadium,0,Sri Lanka,runs,2
+270,India,Pakistan,V Kohli,2012-09-30,Pakistan,bat,Colombo,R Premadasa Stadium,1,India,wickets,8
+271,Afghanistan,Zimbabwe,Gulbadin Naib,2016-01-08,Afghanistan,bat,0,Sharjah Cricket Stadium,1,Afghanistan,runs,5
+272,Pakistan,South Africa,Umar Gul,2012-09-28,South Africa,bat,Colombo,R Premadasa Stadium,1,Pakistan,wickets,2
+273,United Arab Emirates,Ireland,0,2016-02-14,United Arab Emirates,field,Abu Dhabi,Sheikh Zayed Stadium,0,Ireland,runs,34
+274,Sri Lanka,New Zealand,MDKJ Perera,2013-11-21,Sri Lanka,field,0,Pallekele International Cricket Stadium,0,Sri Lanka,wickets,8
+275,England,Pakistan,KP Pietersen,2010-05-06,England,field,Barbados,"Kensington Oval, Bridgetown",1,England,wickets,6
+276,India,Sri Lanka,Yuvraj Singh,2009-12-12,Sri Lanka,bat,Chandigarh,"Punjab Cricket Association Stadium, Mohali",0,India,wickets,6
+277,Sri Lanka,United Arab Emirates,SL Malinga,2016-02-25,United Arab Emirates,field,Mirpur,Shere Bangla National Stadium,1,Sri Lanka,runs,14
+278,Bangladesh,Pakistan,Soumya Sarkar,2016-03-02,Pakistan,bat,Mirpur,Shere Bangla National Stadium,0,Bangladesh,wickets,5
+279,Kenya,Netherlands,Mudassar Bukhari,2013-11-23,Netherlands,bat,Dubai,ICC Academy,1,Netherlands,runs,29
+280,Zimbabwe,Afghanistan,Gulbadin Naib,2015-10-28,Zimbabwe,bat,Bulawayo,Queens Sports Club,0,Afghanistan,wickets,5
+281,Australia,Sri Lanka,KC Sangakkara,2009-06-08,Sri Lanka,field,Nottingham,Trent Bridge,1,Sri Lanka,wickets,6
+282,Pakistan,West Indies,Sarfraz Ahmed,2016-09-24,West Indies,field,0,Dubai International Cricket Stadium,1,Pakistan,runs,16
+283,Ireland,New Zealand,AJ Redmond,2009-06-11,Ireland,field,Nottingham,Trent Bridge,1,New Zealand,runs,83
+284,Ireland,Papua New Guinea,0,2016-02-09,Papua New Guinea,bat,Townsville,Tony Ireland Stadium,1,Papua New Guinea,runs,11
+285,England,Sri Lanka,ST Jayasuriya,2006-06-15,Sri Lanka,bat,Southampton,The Rose Bowl,0,Sri Lanka,runs,2
+286,Sri Lanka,West Indies,ST Jayasuriya,2009-06-10,West Indies,field,Nottingham,Trent Bridge,1,Sri Lanka,runs,15
+287,England,South Africa,JH Kallis,2009-06-11,England,bat,Nottingham,Trent Bridge,0,South Africa,wickets,7
+288,South Africa,West Indies,SM Pollock,2008-01-18,South Africa,field,Johannesburg,New Wanderers Stadium,0,South Africa,wickets,4
+289,West Indies,Pakistan,Hasan Ali,2017-04-02,Pakistan,field,Trinidad,"Queen's Park Oval, Port of Spain",0,Pakistan,wickets,7
+290,Afghanistan,Ireland,Mohammad Nabi,2017-03-12,Ireland,field,Greater Noida,Greater Noida Sports Complex Ground,1,Afghanistan,runs,28
+291,Pakistan,South Africa,Umar Akmal,2010-05-10,Pakistan,bat,St Lucia,"Beausejour Stadium, Gros Islet",1,Pakistan,runs,11
+292,Australia,Pakistan,Raza Hasan,2012-10-02,Australia,field,Colombo,R Premadasa Stadium,1,Pakistan,runs,32
+293,United Arab Emirates,Oman,0,2015-11-22,United Arab Emirates,field,Abu Dhabi,Sheikh Zayed Stadium,0,United Arab Emirates,wickets,7
+294,New Zealand,Sri Lanka,SB Styris,2010-05-22,New Zealand,bat,Lauderhill,Central Broward Regional Park Stadium Turf Ground,1,New Zealand,runs,28
+295,New Zealand,Pakistan,Nasir Jamshed,2012-09-23,Pakistan,bat,0,Pallekele International Cricket Stadium,1,Pakistan,runs,13
+296,England,New Zealand,TT Bresnan,2010-05-10,New Zealand,bat,St Lucia,"Beausejour Stadium, Gros Islet",1,England,wickets,3
+297,Zimbabwe,New Zealand,MJ Guptill,2011-10-17,Zimbabwe,field,0,Harare Sports Club,0,New Zealand,runs,34
+298,Australia,West Indies,CH Gayle,2012-10-05,West Indies,bat,Colombo,R Premadasa Stadium,1,West Indies,runs,74
+299,South Africa,Australia,J Theron,2011-10-16,Australia,bat,Johannesburg,New Wanderers Stadium,0,South Africa,wickets,3
+300,New Zealand,Pakistan,Umar Akmal,2009-11-13,Pakistan,bat,0,Dubai International Cricket Stadium,1,Pakistan,runs,7
+301,England,Sri Lanka,SCJ Broad,2010-05-13,Sri Lanka,bat,St Lucia,"Beausejour Stadium, Gros Islet",1,England,wickets,7
+302,Zimbabwe,Afghanistan,Dawlat Zadran,2015-10-26,Zimbabwe,bat,Bulawayo,Queens Sports Club,0,Afghanistan,wickets,6
+303,New Zealand,Bangladesh,DL Vettori,2010-02-03,Bangladesh,bat,Hamilton,Seddon Park,0,New Zealand,wickets,10
+304,New Zealand,Sri Lanka,C Munro,2016-01-10,New Zealand,field,Auckland,Eden Park,0,New Zealand,wickets,9
+305,Bangladesh,Pakistan,Sabbir Rahman,2015-04-24,Pakistan,bat,Mirpur,Shere Bangla National Stadium,0,Bangladesh,wickets,7
+306,West Indies,Pakistan,Umar Akmal,2013-07-28,Pakistan,bat,St Vincent,"Arnos Vale Ground, Kingstown",0,Pakistan,runs,11
+307,Afghanistan,South Africa,M Morkel,2010-05-05,Afghanistan,field,Barbados,"Kensington Oval, Bridgetown",1,South Africa,runs,59
+308,India,West Indies,0,2016-08-28,India,field,Lauderhill,Central Broward Regional Park Stadium Turf Ground,1,0,0,0
+309,Sri Lanka,New Zealand,JD Ryder,2009-09-04,New Zealand,bat,Colombo,R Premadasa Stadium,0,New Zealand,runs,22
+310,India,South Africa,JP Duminy,2015-10-02,South Africa,field,Dharmasala,Himachal Pradesh Cricket Association Stadium,0,South Africa,wickets,7
+311,Australia,England,C Kieswetter,2010-05-16,England,field,Barbados,"Kensington Oval, Bridgetown",1,England,wickets,7
+312,England,Pakistan,SW Billings,2015-11-26,England,bat,0,Dubai International Cricket Stadium,1,England,runs,14
+313,West Indies,South Africa,R McLaren,2010-05-19,West Indies,field,Antigua,"Sir Vivian Richards Stadium, North Sound",0,South Africa,runs,13
+314,South Africa,England,JA Morkel,2007-09-16,England,field,Cape Town,Newlands,0,South Africa,runs,19
+315,New Zealand,Pakistan,IG Butler,2010-05-08,Pakistan,field,Barbados,"Kensington Oval, Bridgetown",1,New Zealand,runs,1
+316,Australia,West Indies,DA Warner,2010-02-23,West Indies,bat,0,Sydney Cricket Ground,0,Australia,wickets,8
+317,Ireland,Netherlands,PA van Meekeren,2016-03-13,Ireland,field,Dharamsala,Himachal Pradesh Cricket Association Stadium,1,Netherlands,runs,12
+318,United Arab Emirates,Afghanistan,Dawlat Zadran,2017-01-16,Afghanistan,field,Abu Dhabi,Sheikh Zayed Stadium,0,Afghanistan,wickets,5
+319,New Zealand,Zimbabwe,NL McCullum,2010-05-04,New Zealand,field,Guyana,Providence Stadium,1,New Zealand,runs,7
+320,Sri Lanka,Pakistan,NLTC Perera,2012-06-01,Sri Lanka,bat,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,Sri Lanka,runs,37
+321,Zimbabwe,Bangladesh,Shakib Al Hasan,2013-05-12,Bangladesh,bat,Bulawayo,Queens Sports Club,0,Bangladesh,runs,34
+322,Australia,India,DA Warner,2010-05-07,India,field,Barbados,"Kensington Oval, Bridgetown",1,Australia,runs,49
+323,Australia,Pakistan,SR Watson,2010-05-02,Australia,bat,St Lucia,"Beausejour Stadium, Gros Islet",1,Australia,runs,34
+324,Canada,Ireland,A Bagai,2013-11-16,Canada,field,Abu Dhabi,Sheikh Zayed Stadium,1,Ireland,runs,2
+325,Zimbabwe,New Zealand,BB McCullum,2011-10-15,New Zealand,field,0,Harare Sports Club,0,New Zealand,wickets,10
+326,Sri Lanka,New Zealand,TM Dilshan,2012-09-27,New Zealand,bat,0,Pallekele International Cricket Stadium,0,0,0,0
+327,Ireland,Kenya,WB Rankin,2012-03-14,Kenya,bat,0,Dubai International Cricket Stadium,1,Ireland,wickets,10
+328,West Indies,Australia,SPD Smith,2010-05-11,West Indies,bat,St Lucia,"Beausejour Stadium, Gros Islet",0,Australia,wickets,6
+329,West Indies,Pakistan,D Bishoo,2011-04-21,West Indies,bat,St Lucia,"Beausejour Stadium, Gros Islet",0,West Indies,runs,7
+330,Sri Lanka,Bangladesh,MDKJ Perera,2017-04-04,Bangladesh,bat,Colombo,R Premadasa Stadium,0,Sri Lanka,wickets,6
+331,Afghanistan,Papua New Guinea,Nawroz Mangal,2015-07-23,Papua New Guinea,bat,Dublin,"The Village, Malahide",1,Afghanistan,wickets,6
+332,New Zealand,Sri Lanka,ST Jayasuriya,2006-12-22,New Zealand,bat,Wellington,Westpac Stadium,0,Sri Lanka,runs,18
+333,South Africa,New Zealand,AB de Villiers,2007-11-23,South Africa,field,Johannesburg,New Wanderers Stadium,0,South Africa,wickets,3
+334,Ireland,Sri Lanka,DPMD Jayawardene,2009-06-14,Sri Lanka,bat,London,Lord's,1,Sri Lanka,runs,9
+335,Bangladesh,Pakistan,Mohammad Hafeez,2011-11-29,Pakistan,bat,Mirpur,Shere Bangla National Stadium,0,Pakistan,runs,50
+336,India,Pakistan,A Mishra,2014-03-21,India,field,Mirpur,Shere Bangla National Stadium,1,India,wickets,7
+337,South Africa,Zimbabwe,JP Duminy,2010-10-10,South Africa,bat,Kimberley,De Beers Diamond Oval,0,South Africa,runs,8
+338,Afghanistan,England,MM Ali,2016-03-23,England,bat,Delhi,Feroz Shah Kotla,1,England,runs,15
+339,Netherlands,United Arab Emirates,TLW Cooper,2014-03-17,United Arab Emirates,bat,0,Sylhet Stadium,1,Netherlands,wickets,6
+340,West Indies,Pakistan,Shadab Khan,2017-03-30,West Indies,field,Trinidad,"Queen's Park Oval, Port of Spain",0,Pakistan,runs,3
+341,New Zealand,Sri Lanka,NL McCullum,2010-04-30,Sri Lanka,bat,Guyana,Providence Stadium,1,New Zealand,wickets,2
+342,Bangladesh,New Zealand,KS Williamson,2016-03-26,New Zealand,bat,Kolkata,Eden Gardens,1,New Zealand,runs,75
+343,New Zealand,Pakistan,MJ Guptill,2016-01-17,Pakistan,bat,Hamilton,Seddon Park,0,New Zealand,wickets,10
+344,India,Ireland,Z Khan,2009-06-10,India,field,Nottingham,Trent Bridge,1,India,wickets,8
+345,West Indies,New Zealand,ADS Fletcher,2014-07-05,New Zealand,field,Dominica,"Windsor Park, Roseau",0,New Zealand,runs,12
+346,India,Australia,V Kohli,2016-03-27,Australia,bat,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,India,wickets,6
+347,South Africa,Australia,DJ Hussey,2009-03-27,South Africa,field,Johannesburg,New Wanderers Stadium,0,South Africa,wickets,4
+348,Ireland,Hong Kong,0,2016-09-05,Hong Kong,bat,Londonderry,"Bready Cricket Club, Magheramason",0,Hong Kong,runs,40
+349,Scotland,United Arab Emirates,HG Munsey,2015-07-09,Scotland,field,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",0,Scotland,wickets,9
+350,Australia,Pakistan,Umar Akmal,2010-07-05,Pakistan,bat,Birmingham,Edgbaston,1,Pakistan,runs,23
+351,New Zealand,South Africa,RE van der Merwe,2009-06-09,New Zealand,field,London,Lord's,1,South Africa,runs,1
+352,Bangladesh,Zimbabwe,H Masakadza,2016-01-22,Zimbabwe,bat,Khulna,Sheikh Abu Naser Stadium,0,Zimbabwe,runs,18
+353,Afghanistan,Scotland,Mohammad Shahzad,2013-03-04,Scotland,bat,0,Sharjah Cricket Stadium,1,Afghanistan,wickets,7
+354,Pakistan,Zimbabwe,Mukhtar Ahmed,2015-05-24,Zimbabwe,bat,Lahore,Gaddafi Stadium,0,Pakistan,wickets,2
+355,Australia,India,MJ Clarke,2008-02-01,India,bat,0,Melbourne Cricket Ground,0,Australia,wickets,9
+356,India,Sri Lanka,CAK Rajitha,2016-02-09,Sri Lanka,field,Pune,Maharashtra Cricket Association Stadium,0,Sri Lanka,wickets,5
+357,Sri Lanka,West Indies,ADS Fletcher,2016-03-20,West Indies,field,Bangalore,M Chinnaswamy Stadium,1,West Indies,wickets,7
+358,Afghanistan,Oman,0,2016-02-20,Oman,bat,Fatullah,Khan Shaheb Osman Ali Stadium,1,Afghanistan,wickets,3
+359,New Zealand,England,PD Collingwood,2008-02-07,England,bat,Christchurch,Jade Stadium,0,England,runs,50
+360,South Africa,New Zealand,JM Kemp,2007-09-19,South Africa,field,Durban,Kingsmead,0,South Africa,wickets,6
+361,Bangladesh,Zimbabwe,H Masakadza,2016-01-15,Zimbabwe,bat,Khulna,Sheikh Abu Naser Stadium,0,Bangladesh,wickets,4
+362,United Arab Emirates,Ireland,WB Rankin,2017-01-18,Ireland,bat,0,Dubai International Cricket Stadium,0,Ireland,runs,24
+363,Sri Lanka,West Indies,AD Mathews,2014-04-03,Sri Lanka,bat,Mirpur,Shere Bangla National Stadium,1,Sri Lanka,runs,27
+364,South Africa,West Indies,MN Samuels,2016-03-25,West Indies,field,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",1,West Indies,wickets,3
+365,New Zealand,Sri Lanka,ST Jayasuriya,2007-09-15,New Zealand,bat,Johannesburg,New Wanderers Stadium,1,Sri Lanka,wickets,7
+366,India,Pakistan,V Kohli,2016-02-27,India,field,Mirpur,Shere Bangla National Stadium,1,India,wickets,5
+367,India,Pakistan,IK Pathan,2007-09-24,India,bat,Johannesburg,New Wanderers Stadium,1,India,runs,5
+368,Kenya,Sri Lanka,ST Jayasuriya,2007-09-14,Kenya,field,Johannesburg,New Wanderers Stadium,1,Sri Lanka,runs,172
+369,Ireland,Netherlands,SJ Myburgh,2014-03-21,Netherlands,field,0,Sylhet Stadium,1,Netherlands,wickets,6
+370,Australia,Pakistan,DA Warner,2012-09-10,Pakistan,field,0,Dubai International Cricket Stadium,1,Australia,runs,94
+371,Australia,India,R Ashwin,2014-03-30,Australia,field,Mirpur,Shere Bangla National Stadium,1,India,runs,73
+372,South Africa,Sri Lanka,MDKJ Perera,2014-03-22,Sri Lanka,bat,Chittagong,Zahur Ahmed Chowdhury Stadium,1,Sri Lanka,runs,5
+373,Australia,South Africa,DA Warner,2009-01-11,Australia,bat,0,Melbourne Cricket Ground,0,Australia,runs,52
+374,India,Sri Lanka,V Kohli,2016-03-01,India,field,Mirpur,Shere Bangla National Stadium,1,India,wickets,5
+375,Sri Lanka,Bangladesh,Shakib Al Hasan,2017-04-06,Bangladesh,bat,Colombo,R Premadasa Stadium,0,Bangladesh,runs,45
+376,Bangladesh,Sri Lanka,NLTC Perera,2014-02-14,Bangladesh,bat,Chittagong,Zahur Ahmed Chowdhury Stadium,0,Sri Lanka,wickets,3
+377,England,West Indies,RR Sarwan,2009-06-15,England,bat,London,Kennington Oval,0,West Indies,wickets,5
+378,Afghanistan,Ireland,Samiullah Shenwari,2017-03-08,Ireland,bat,Greater Noida,Greater Noida Sports Complex Ground,1,Afghanistan,wickets,6
+379,New Zealand,West Indies,L Ronchi,2014-01-11,New Zealand,bat,Auckland,Eden Park,0,New Zealand,runs,81
+380,New Zealand,Pakistan,Umar Gul,2009-06-13,New Zealand,bat,London,Kennington Oval,1,Pakistan,wickets,6
+381,New Zealand,Pakistan,Shahid Afridi,2016-01-15,New Zealand,field,Auckland,Eden Park,0,Pakistan,runs,16
+382,Bangladesh,Pakistan,Imran Nazir,2007-09-02,Bangladesh,field,Nairobi,Gymkhana Club Ground,1,Pakistan,runs,30
+383,South Africa,Australia,DA Miller,2016-03-04,Australia,bat,Durban,Kingsmead,0,South Africa,wickets,3
+384,Pakistan,West Indies,DJ Bravo,2014-04-01,West Indies,bat,Mirpur,Shere Bangla National Stadium,1,West Indies,runs,84
+385,New Zealand,Zimbabwe,MJ Guptill,2012-02-11,Zimbabwe,bat,Auckland,Eden Park,0,New Zealand,wickets,7
+386,India,Sri Lanka,KC Sangakkara,2014-04-06,Sri Lanka,field,Mirpur,Shere Bangla National Stadium,1,Sri Lanka,wickets,6
+387,West Indies,Bangladesh,0,2014-08-27,Bangladesh,bat,St Kitts,"Warner Park, Basseterre",0,0,0,0
+388,India,Pakistan,Mohammad Asif,2007-09-14,Pakistan,field,Durban,Kingsmead,1,0,0,0
+389,Netherlands,Pakistan,Kamran Akmal,2009-06-09,Pakistan,bat,London,Lord's,1,Pakistan,runs,82
+390,Sri Lanka,Bangladesh,MDKJ Perera,2013-03-31,Bangladesh,field,0,Pallekele International Cricket Stadium,0,Sri Lanka,runs,17
+391,Pakistan,Sri Lanka,Younis Khan,2007-09-17,Sri Lanka,field,Johannesburg,New Wanderers Stadium,1,Pakistan,runs,33
+392,Australia,South Africa,SR Watson,2012-09-30,Australia,field,Colombo,R Premadasa Stadium,1,Australia,wickets,8
+393,Netherlands,United Arab Emirates,RE van der Merwe,2015-07-12,Netherlands,field,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",1,Netherlands,wickets,7
+394,Ireland,Papua New Guinea,N Vanua,2015-07-15,Ireland,bat,Belfast,"Civil Service Cricket Club, Stormont",0,Papua New Guinea,wickets,2
+395,Australia,India,Yuvraj Singh,2007-09-22,India,bat,Durban,Kingsmead,1,India,runs,15
+396,Australia,Sri Lanka,NLTC Perera,2013-01-28,Australia,field,0,Melbourne Cricket Ground,0,Sri Lanka,runs,2
+397,England,Sri Lanka,AD Hales,2014-03-27,England,field,Chittagong,Zahur Ahmed Chowdhury Stadium,1,England,wickets,6
+398,Canada,Ireland,PR Stirling,2012-03-22,Canada,bat,0,Dubai International Cricket Stadium,1,Ireland,wickets,10
+399,Afghanistan,Ireland,Mohammad Nabi,2017-01-14,Ireland,bat,Abu Dhabi,Sheikh Zayed Stadium,1,Afghanistan,wickets,5
+400,Australia,New Zealand,A Symonds,2007-12-11,Australia,bat,Perth,Western Australia Cricket Association Ground,0,Australia,runs,54
+401,Pakistan,Sri Lanka,Shahid Afridi,2009-06-21,Sri Lanka,bat,London,Lord's,1,Pakistan,wickets,8
+402,Sri Lanka,Pakistan,DPMD Jayawardene,2012-10-04,Sri Lanka,bat,Colombo,R Premadasa Stadium,0,Sri Lanka,runs,16
+403,Hong Kong,Oman,0,2015-11-26,Hong Kong,field,Abu Dhabi,Sheikh Zayed Stadium,1,Hong Kong,wickets,8
+404,England,Netherlands,Mudassar Bukhari,2014-03-31,England,field,Chittagong,Zahur Ahmed Chowdhury Stadium,1,Netherlands,runs,45
+405,New Zealand,Sri Lanka,JEC Franklin,2006-12-26,New Zealand,field,Auckland,Eden Park,0,New Zealand,wickets,5
+406,Netherlands,Bangladesh,0,2012-07-25,Netherlands,bat,The Hague,Sportpark Westvliet,0,Bangladesh,wickets,8
+407,Bangladesh,Pakistan,Junaid Siddique,2007-09-20,Pakistan,field,Cape Town,Newlands,1,Pakistan,wickets,4
+408,India,South Africa,AB de Villiers,2009-06-16,South Africa,bat,Nottingham,Trent Bridge,1,South Africa,runs,12
+409,South Africa,New Zealand,AM Phangiso,2015-08-14,South Africa,field,Durban,Kingsmead,0,South Africa,wickets,6
+410,India,England,EJG Morgan,2012-12-22,England,field,Mumbai,Wankhede Stadium,0,England,wickets,6
+411,Sri Lanka,Zimbabwe,BAW Mendis,2012-09-18,Zimbabwe,field,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",0,Sri Lanka,runs,82
+412,New Zealand,South Africa,JA Morkel,2010-05-06,South Africa,bat,Barbados,"Kensington Oval, Bridgetown",1,South Africa,runs,13
+413,Hong Kong,Zimbabwe,V Sibanda,2016-03-08,Hong Kong,field,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",1,Zimbabwe,runs,14
+414,Afghanistan,Hong Kong,Mohammad Shahzad,2014-03-18,Hong Kong,bat,Chittagong,Zahur Ahmed Chowdhury Stadium,1,Afghanistan,wickets,7
+415,India,South Africa,JA Morkel,2015-10-05,South Africa,field,Cuttack,Barabati Stadium,0,South Africa,wickets,6
+416,Pakistan,Sri Lanka,TM Dilshan,2009-06-12,Sri Lanka,bat,London,Lord's,1,Sri Lanka,runs,19
+417,South Africa,West Indies,CH Gayle,2015-01-09,South Africa,bat,Cape Town,Newlands,0,West Indies,wickets,4
+418,England,New Zealand,HD Rutherford,2013-06-25,England,field,London,Kennington Oval,0,New Zealand,runs,5
+419,England,Pakistan,MH Yardy,2010-09-05,England,field,Cardiff,Sophia Gardens,0,England,wickets,5
+420,Australia,India,SR Watson,2016-01-31,Australia,bat,0,Sydney Cricket Ground,0,India,wickets,7
+421,Pakistan,Sri Lanka,MDKJ Perera,2013-12-13,Pakistan,field,0,Dubai International Cricket Stadium,1,Sri Lanka,runs,24
+422,England,Pakistan,LE Plunkett,2015-11-27,England,bat,0,Dubai International Cricket Stadium,1,England,runs,3
+423,New Zealand,West Indies,L Ronchi,2014-01-15,West Indies,bat,Wellington,Westpac Stadium,0,New Zealand,wickets,4
+424,New Zealand,England,0,2013-02-12,England,field,Hamilton,Seddon Park,0,New Zealand,runs,55
+425,Sri Lanka,Zimbabwe,DPMD Jayawardene,2010-05-03,Sri Lanka,bat,Guyana,Providence Stadium,1,Sri Lanka,runs,14
+426,Sri Lanka,Australia,TM Dilshan,2011-08-06,Australia,field,0,Pallekele International Cricket Stadium,0,Sri Lanka,runs,35
+427,South Africa,Australia,RE van der Merwe,2009-03-29,Australia,field,Centurion,SuperSport Park,0,South Africa,runs,17
+428,Afghanistan,Ireland,Mohammad Nabi,2010-02-09,Ireland,field,0,Dubai International Cricket Stadium,1,Afghanistan,runs,13
+429,Sri Lanka,West Indies,DPMD Jayawardene,2012-09-29,West Indies,bat,0,Pallekele International Cricket Stadium,0,Sri Lanka,wickets,9
+430,West Indies,Zimbabwe,AG Cremer,2010-02-28,Zimbabwe,bat,Trinidad,"Queen's Park Oval, Port of Spain",0,Zimbabwe,runs,26
+431,England,Sri Lanka,JC Buttler,2016-03-26,Sri Lanka,field,Delhi,Feroz Shah Kotla,1,England,runs,10
+432,Australia,West Indies,SR Watson,2012-09-22,West Indies,bat,Colombo,R Premadasa Stadium,1,Australia,runs,17
+433,England,New Zealand,LJ Wright,2012-09-29,New Zealand,bat,0,Pallekele International Cricket Stadium,1,England,wickets,6
+434,Canada,Netherlands,B Zuiderent,2010-02-09,Canada,bat,0,Dubai International Cricket Stadium,1,Netherlands,wickets,6
+435,Pakistan,Sri Lanka,Shoaib Malik,2008-10-11,Pakistan,field,King City,Maple Leaf North-West Ground,1,Pakistan,wickets,3
+436,Netherlands,Scotland,W Barresi,2013-11-28,Scotland,bat,Abu Dhabi,Sheikh Zayed Stadium,1,Netherlands,wickets,8
+437,New Zealand,Bangladesh,KS Williamson,2017-01-03,Bangladesh,bat,Napier,McLean Park,0,New Zealand,wickets,6
+438,Afghanistan,Hong Kong,Mohammad Nabi,2016-02-22,Hong Kong,field,Mirpur,Shere Bangla National Stadium,1,Afghanistan,runs,66
+439,Australia,Sri Lanka,DA Warner,2013-01-26,Australia,bat,Sydney,Stadium Australia,0,Sri Lanka,wickets,5
+440,Afghanistan,Pakistan,Mohammad Hafeez,2013-12-08,Afghanistan,bat,0,Sharjah Cricket Stadium,1,Pakistan,wickets,6
+441,United Arab Emirates,Ireland,0,2016-02-16,United Arab Emirates,bat,Abu Dhabi,Sheikh Zayed Stadium,0,United Arab Emirates,runs,5
+442,Afghanistan,Ireland,Mohammad Shahzad,2010-02-13,Ireland,bat,0,Dubai International Cricket Stadium,1,Afghanistan,wickets,8
+443,West Indies,Ireland,DJG Sammy,2010-04-30,West Indies,bat,Guyana,Providence Stadium,0,West Indies,runs,70
+444,Australia,England,NW Bracken,2007-09-14,England,bat,Cape Town,Newlands,1,Australia,wickets,8
+445,Bangladesh,Netherlands,Tamim Iqbal,2016-03-09,Netherlands,field,Dharamsala,Himachal Pradesh Cricket Association Stadium,1,Bangladesh,runs,8
+446,South Africa,New Zealand,H Davids,2012-12-26,South Africa,bat,Port Elizabeth,St George's Park,0,South Africa,runs,33
+447,England,India,RJ Sidebottom,2009-06-14,India,field,London,Lord's,0,England,runs,3
+448,Australia,South Africa,RR Rossouw,2014-11-05,Australia,bat,0,Adelaide Oval,0,South Africa,wickets,7
+449,Pakistan,United Arab Emirates,Shoaib Malik,2016-02-29,United Arab Emirates,bat,Mirpur,Shere Bangla National Stadium,1,Pakistan,wickets,7
+450,New Zealand,England,0,2013-02-15,England,field,Wellington,Westpac Stadium,0,England,wickets,10
+451,Afghanistan,Ireland,DT Johnston,2013-11-30,Ireland,bat,Abu Dhabi,Sheikh Zayed Stadium,1,Ireland,runs,68
+452,West Indies,Pakistan,Shahid Afridi,2013-07-27,West Indies,bat,St Vincent,"Arnos Vale Ground, Kingstown",0,Pakistan,wickets,2
+453,England,Australia,MM Ali,2015-08-31,Australia,field,Cardiff,Sophia Gardens,0,England,runs,5
+454,Bangladesh,Sri Lanka,CRD Fernando,2007-09-18,Bangladesh,field,Johannesburg,New Wanderers Stadium,1,Sri Lanka,runs,64
+455,West Indies,South Africa,J Botha,2010-05-20,West Indies,field,Antigua,"Sir Vivian Richards Stadium, North Sound",0,South Africa,runs,1
+456,England,West Indies,PD Collingwood,2007-06-28,West Indies,bat,London,Kennington Oval,0,West Indies,runs,15
+457,South Africa,Sri Lanka,AD Mathews,2017-01-22,South Africa,bat,Johannesburg,New Wanderers Stadium,0,Sri Lanka,wickets,3
+458,Hong Kong,Nepal,Haseeb Amjad,2015-07-15,Hong Kong,field,Belfast,"Civil Service Cricket Club, Stormont",1,Hong Kong,wickets,5
+459,South Africa,Pakistan,Q de Kock,2013-11-20,Pakistan,field,Johannesburg,New Wanderers Stadium,0,South Africa,runs,4
+460,Sri Lanka,Pakistan,Anwar Ali,2015-08-01,Sri Lanka,bat,Colombo,R Premadasa Stadium,0,Pakistan,wickets,1
+461,Afghanistan,Hong Kong,Mohammad Nabi,2016-03-10,Hong Kong,bat,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",1,Afghanistan,wickets,6
+462,India,Australia,Yuvraj Singh,2013-10-10,India,field,Rajkot,Saurashtra Cricket Association Stadium,0,India,wickets,6
+463,Bangladesh,India,RG Sharma,2016-02-24,Bangladesh,field,Mirpur,Shere Bangla National Stadium,0,India,runs,45
+464,Afghanistan,Kenya,0,2013-10-11,Kenya,bat,0,Sharjah Cricket Stadium,1,Kenya,runs,34
+465,Kenya,New Zealand,MR Gillespie,2007-09-12,New Zealand,field,Durban,Kingsmead,1,New Zealand,wickets,9
+466,Netherlands,Zimbabwe,BRM Taylor,2014-03-19,Netherlands,bat,0,Sylhet Stadium,1,Zimbabwe,wickets,5
+467,South Africa,New Zealand,JS Patel,2005-10-21,New Zealand,field,Johannesburg,New Wanderers Stadium,0,New Zealand,wickets,5
+468,South Africa,Zimbabwe,JH Kallis,2012-09-20,South Africa,field,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",1,South Africa,wickets,10
+469,Afghanistan,West Indies,Najibullah Zadran,2016-03-27,West Indies,field,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",1,Afghanistan,runs,6
+470,India,Pakistan,Mohammad Hafeez,2012-12-25,Pakistan,field,Bangalore,M Chinnaswamy Stadium,0,Pakistan,wickets,5
+471,Bangladesh,Ireland,0,2016-03-11,Ireland,field,Dharamsala,Himachal Pradesh Cricket Association Stadium,1,0,0,0
+472,United Arab Emirates,Zimbabwe,E Chigumbura,2014-03-21,Zimbabwe,field,0,Sylhet Stadium,1,Zimbabwe,wickets,5
+473,Zimbabwe,Bangladesh,H Masakadza,2013-05-11,Zimbabwe,bat,Bulawayo,Queens Sports Club,0,Zimbabwe,runs,6
+474,Sri Lanka,Pakistan,Shahid Afridi,2009-08-12,Pakistan,bat,Colombo,R Premadasa Stadium,0,Pakistan,runs,52
+475,Afghanistan,Zimbabwe,Mohammad Shahzad,2016-01-10,Zimbabwe,field,0,Sharjah Cricket Stadium,1,Afghanistan,runs,81
+476,Australia,Ireland,SR Watson,2012-09-19,Ireland,bat,Colombo,R Premadasa Stadium,1,Australia,wickets,7
+477,England,India,Yuvraj Singh,2007-09-19,India,bat,Durban,Kingsmead,1,India,runs,18
+478,Australia,New Zealand,MJ McClenaghan,2016-03-18,New Zealand,bat,Dharamsala,Himachal Pradesh Cricket Association Stadium,1,New Zealand,runs,8
+479,West Indies,England,RR Sarwan,2009-03-15,West Indies,field,Trinidad,"Queen's Park Oval, Port of Spain",0,West Indies,wickets,6
+480,South Africa,India,CA Ingram,2012-03-30,India,field,Johannesburg,New Wanderers Stadium,0,South Africa,runs,11
+481,England,South Africa,JE Root,2016-03-18,England,field,Mumbai,Wankhede Stadium,1,England,wickets,2
+482,India,New Zealand,BB McCullum,2012-09-11,India,field,Chennai,"MA Chidambaram Stadium, Chepauk",0,New Zealand,runs,1
+483,New Zealand,Sri Lanka,TA Boult,2016-01-07,Sri Lanka,field,Mount Maunganui,Bay Oval,0,New Zealand,runs,3
+484,India,South Africa,V Kohli,2014-04-04,South Africa,bat,Mirpur,Shere Bangla National Stadium,1,India,wickets,6
+485,Afghanistan,Zimbabwe,Mohammad Nabi,2016-03-12,Afghanistan,bat,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",1,Afghanistan,runs,59
+486,England,West Indies,CH Gayle,2016-03-16,West Indies,field,Mumbai,Wankhede Stadium,1,West Indies,wickets,6
+487,South Africa,West Indies,CH Gayle,2007-09-11,South Africa,field,Johannesburg,New Wanderers Stadium,0,South Africa,wickets,8
+488,Afghanistan,India,A Nehra,2010-05-01,India,field,St Lucia,"Beausejour Stadium, Gros Islet",1,India,wickets,7
+489,Kenya,Pakistan,Younis Khan,2007-09-04,Kenya,bat,Nairobi,Gymkhana Club Ground,0,Pakistan,wickets,8
+490,Hong Kong,Nepal,Aizaz Khan,2014-11-24,Hong Kong,field,Colombo,P Sara Oval,1,Hong Kong,wickets,2
+491,England,Netherlands,TN de Grooth,2009-06-05,Netherlands,field,London,Lord's,0,Netherlands,wickets,4
+492,Netherlands,Scotland,RML Taylor,2013-11-22,Netherlands,field,Dubai,ICC Academy,1,Scotland,runs,15
+493,Afghanistan,Netherlands,RN ten Doeschate,2010-02-12,Netherlands,field,0,Dubai International Cricket Stadium,1,Netherlands,wickets,4
+494,Hong Kong,Scotland,Babar Hayat,2016-01-30,Hong Kong,field,Hong Kong,"Mission Road Ground, Mong Kok",0,Hong Kong,wickets,9
+495,Australia,Pakistan,Umar Akmal,2014-03-23,Australia,field,Mirpur,Shere Bangla National Stadium,1,Pakistan,runs,16
+496,Hong Kong,Oman,0,2015-11-25,Hong Kong,field,Abu Dhabi,Sheikh Zayed Stadium,1,Oman,runs,4
+497,Australia,India,V Kohli,2016-01-26,Australia,field,0,Adelaide Oval,0,India,runs,37
+498,Ireland,Zimbabwe,PR Stirling,2014-03-17,Ireland,field,0,Sylhet Stadium,1,Ireland,wickets,3
+499,Afghanistan,Netherlands,Mohammad Shahzad,2012-03-14,Netherlands,bat,0,Dubai International Cricket Stadium,1,Afghanistan,wickets,4
+500,New Zealand,India,BB McCullum,2009-02-27,New Zealand,field,Wellington,Westpac Stadium,0,New Zealand,wickets,5
+501,Australia,Pakistan,Shahid Afridi,2009-05-07,Pakistan,field,0,Dubai International Cricket Stadium,1,Pakistan,wickets,7
+502,Scotland,Zimbabwe,WP Masakadza,2016-03-10,Zimbabwe,bat,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",1,Zimbabwe,runs,11
+503,Bangladesh,West Indies,MN Samuels,2012-12-10,West Indies,bat,Mirpur,Shere Bangla National Stadium,0,West Indies,runs,18
+504,South Africa,England,AB de Villiers,2016-02-21,South Africa,field,Johannesburg,New Wanderers Stadium,0,South Africa,wickets,9
+505,England,Sri Lanka,JC Buttler,2016-07-05,Sri Lanka,bat,Southampton,The Rose Bowl,0,England,wickets,8
+506,Pakistan,West Indies,Imad Wasim,2016-09-23,Pakistan,field,0,Dubai International Cricket Stadium,1,Pakistan,wickets,9
+507,Ireland,Hong Kong,Irfan Ahmed,2015-07-17,Ireland,field,Dublin,"The Village, Malahide",0,Hong Kong,runs,5
+508,England,Pakistan,Shoaib Malik,2015-11-30,England,bat,0,Sharjah Cricket Stadium,1,0,0,0
+509,Pakistan,South Africa,JP Duminy,2010-10-26,Pakistan,bat,Abu Dhabi,Sheikh Zayed Stadium,1,South Africa,wickets,6
+510,West Indies,Zimbabwe,LMP Simmons,2013-03-02,Zimbabwe,bat,Antigua,"Sir Vivian Richards Stadium, North Sound",0,West Indies,wickets,8
+511,Pakistan,South Africa,DW Steyn,2013-11-13,Pakistan,bat,0,Dubai International Cricket Stadium,1,South Africa,wickets,9
+512,India,New Zealand,DL Vettori,2007-09-16,India,field,Johannesburg,New Wanderers Stadium,1,New Zealand,runs,10
+513,South Africa,New Zealand,MJ Guptill,2015-08-16,New Zealand,bat,Centurion,SuperSport Park,0,New Zealand,runs,32
+514,England,South Africa,0,2012-09-10,England,field,Manchester,Old Trafford,0,0,0,0
+515,Ireland,Scotland,EC Joyce,2012-03-18,Ireland,bat,0,Dubai International Cricket Stadium,1,Ireland,runs,17
+516,Australia,England,CL White,2014-01-29,Australia,bat,Hobart,Bellerive Oval,0,Australia,runs,13
+517,United Arab Emirates,Papua New Guinea,0,2017-04-14,Papua New Guinea,field,Abu Dhabi,Sheikh Zayed Stadium,0,United Arab Emirates,runs,30
+518,Netherlands,Scotland,RN ten Doeschate,2008-08-04,Netherlands,field,Belfast,"Civil Service Cricket Club, Stormont",1,Netherlands,wickets,5
+519,India,New Zealand,MJ Santner,2016-03-15,New Zealand,bat,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",0,New Zealand,runs,47
+520,India,West Indies,A Mishra,2014-03-23,India,field,Mirpur,Shere Bangla National Stadium,1,India,wickets,7
+521,Kenya,Ireland,SO Ngoche,2012-02-24,Ireland,bat,0,Mombasa Sports Club Ground,0,Ireland,runs,2
+522,New Zealand,South Africa,RE Levi,2012-02-19,South Africa,field,Hamilton,Seddon Park,0,South Africa,wickets,8
+523,Pakistan,Bangladesh,Misbah-ul-Haq,2008-04-20,Pakistan,bat,Karachi,National Stadium,0,Pakistan,runs,102
+524,New Zealand,Pakistan,Umar Gul,2007-09-22,New Zealand,bat,Cape Town,Newlands,1,Pakistan,wickets,6
+525,New Zealand,South Africa,J Botha,2012-02-22,New Zealand,field,Auckland,Eden Park,0,South Africa,runs,3
+526,Bangladesh,Sri Lanka,Sabbir Rahman,2016-02-28,Bangladesh,bat,Mirpur,Shere Bangla National Stadium,0,Bangladesh,runs,23
+527,New Zealand,Pakistan,MJ Guptill,2016-03-22,New Zealand,bat,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",1,New Zealand,runs,22
+528,England,West Indies,GE Mathurin,2011-09-25,England,field,London,Kennington Oval,0,West Indies,runs,25
+529,Afghanistan,England,LJ Wright,2012-09-21,Afghanistan,field,Colombo,R Premadasa Stadium,1,England,runs,116
+530,Sri Lanka,Australia,GJ Maxwell,2016-09-06,Sri Lanka,field,0,Pallekele International Cricket Stadium,0,Australia,runs,85
+531,Sri Lanka,India,YK Pathan,2009-02-10,Sri Lanka,bat,Colombo,R Premadasa Stadium,0,India,wickets,3
+532,Bangladesh,Australia,AJ Finch,2014-04-01,Bangladesh,bat,Mirpur,Shere Bangla National Stadium,0,Australia,wickets,7
+533,Bangladesh,India,PP Ojha,2009-06-06,India,bat,Nottingham,Trent Bridge,1,India,runs,25
+534,Australia,England,GJ Bailey,2014-02-02,Australia,bat,Sydney,Stadium Australia,0,Australia,runs,84
+535,South Africa,England,LE Bosman,2009-11-15,South Africa,bat,Centurion,SuperSport Park,0,South Africa,runs,84
+536,South Africa,Zimbabwe,GC Smith,2010-10-08,Zimbabwe,bat,Bloemfontein,OUTsurance Oval,0,South Africa,wickets,7
+537,Afghanistan,Netherlands,Sharafuddin Ashraf,2015-07-09,Netherlands,field,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",1,Afghanistan,runs,32
+538,India,South Africa,SK Raina,2010-05-02,South Africa,field,St Lucia,"Beausejour Stadium, Gros Islet",1,India,runs,14
+539,South Africa,India,RG Sharma,2007-09-20,India,bat,Durban,Kingsmead,0,India,runs,37
+540,New Zealand,England,0,2013-02-09,New Zealand,field,Auckland,Eden Park,0,England,runs,40
+541,Afghanistan,Sri Lanka,TM Dilshan,2016-03-17,Afghanistan,bat,Kolkata,Eden Gardens,1,Sri Lanka,wickets,6
+542,Zimbabwe,Pakistan,Ahmed Shehzad,2013-08-24,Zimbabwe,field,0,Harare Sports Club,0,Pakistan,runs,19
+543,Zimbabwe,Pakistan,Ahmed Shehzad,2013-08-23,Zimbabwe,field,0,Harare Sports Club,0,Pakistan,runs,25
+544,Sri Lanka,South Africa,JP Duminy,2013-08-02,South Africa,bat,Colombo,R Premadasa Stadium,0,South Africa,runs,12
+545,Australia,Sri Lanka,A Zampa,2017-02-22,Sri Lanka,field,0,Adelaide Oval,0,Australia,runs,41
+546,Kenya,Scotland,RG Aga,2013-11-19,Kenya,bat,Dubai,ICC Academy,1,Kenya,runs,92
+547,Netherlands,Oman,MJG Rippon,2017-01-15,Oman,bat,Abu Dhabi,Sheikh Zayed Stadium,1,Netherlands,wickets,5
+548,Australia,England,AJ Finch,2011-01-14,Australia,bat,0,Melbourne Cricket Ground,0,Australia,runs,4
+549,Bangladesh,India,S Dhawan,2016-03-06,India,field,Mirpur,Shere Bangla National Stadium,0,India,wickets,8
+550,New Zealand,Pakistan,Abdul Razzaq,2010-12-30,Pakistan,bat,Christchurch,AMI Stadium,0,Pakistan,runs,103
+551,Australia,England,CL White,2007-01-09,Australia,bat,0,Sydney Cricket Ground,0,Australia,runs,77
+552,West Indies,Ireland,EC Joyce,2014-02-19,West Indies,bat,Jamaica,"Sabina Park, Kingston",0,Ireland,wickets,6
+553,South Africa,Australia,DA Warner,2016-03-06,Australia,field,Johannesburg,New Wanderers Stadium,0,Australia,wickets,5
+554,England,Pakistan,EJG Morgan,2010-02-19,Pakistan,bat,0,Dubai International Cricket Stadium,1,England,wickets,7
+555,England,Pakistan,KP Pietersen,2012-02-27,England,bat,Abu Dhabi,Sheikh Zayed Stadium,1,England,runs,5
+556,New Zealand,Sri Lanka,KMDN Kulasekara,2010-05-23,New Zealand,bat,Lauderhill,Central Broward Regional Park Stadium Turf Ground,1,Sri Lanka,wickets,7
+557,Netherlands,Bangladesh,0,2012-07-26,Bangladesh,bat,The Hague,Sportpark Westvliet,0,Netherlands,wickets,1
+558,Pakistan,Sri Lanka,Aizaz Cheema,2011-11-25,Sri Lanka,bat,Abu Dhabi,Sheikh Zayed Stadium,1,Pakistan,wickets,5
+559,South Africa,England,EJG Morgan,2009-11-13,South Africa,field,Johannesburg,New Wanderers Stadium,0,England,runs,1
+560,South Africa,Bangladesh,M Morkel,2007-09-15,South Africa,field,Cape Town,Newlands,0,South Africa,wickets,7
+561,Canada,Kenya,CO Obuya,2013-03-16,Kenya,bat,Dubai,ICC Global Cricket Academy,1,Kenya,runs,21
+562,Bangladesh,New Zealand,C Munro,2013-11-06,New Zealand,bat,Mirpur,Shere Bangla National Stadium,0,New Zealand,runs,15
+563,West Indies,England,K Santokie,2014-03-11,England,bat,Barbados,"Kensington Oval, Bridgetown",0,West Indies,wickets,5
+564,Pakistan,South Africa,Shahid Afridi,2009-06-18,Pakistan,bat,Nottingham,Trent Bridge,1,Pakistan,runs,7
+565,Scotland,Netherlands,AC Evans,2015-07-11,Netherlands,bat,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",0,Netherlands,runs,32
+566,Afghanistan,Ireland,PR Stirling,2012-03-24,Afghanistan,bat,0,Dubai International Cricket Stadium,1,Ireland,wickets,5
+567,Australia,Bangladesh,A Zampa,2016-03-21,Australia,field,Bangalore,M Chinnaswamy Stadium,1,Australia,wickets,3
+568,Bangladesh,Hong Kong,Nadeem Ahmed,2014-03-20,Hong Kong,field,Chittagong,Zahur Ahmed Chowdhury Stadium,0,Hong Kong,wickets,2
+569,New Zealand,Bangladesh,C Munro,2017-01-06,Bangladesh,field,Mount Maunganui,Bay Oval,0,New Zealand,runs,47
